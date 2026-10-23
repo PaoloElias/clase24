@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Ejercicios_Clase24",
+      "mainClass": "Ejercicios_Clase24",
+      "buildTarget": "file:/C:/Users/p1406/OneDrive/Escritorio/clase24/.scala-build/?id=clase24_41e103cfb2",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}
